@@ -1,2 +1,2 @@
 # entrnamiento-en-git
-En maquetado rápido que me ha servido para 
+Un maquetado rápido que me ha servido para aprender los conceptos básicos de git y su manejo en github :)
